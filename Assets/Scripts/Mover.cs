@@ -6,4 +6,4 @@ public class Mover : MonoBehaviour
 
     private void Update()
         => transform.position += new Vector3(0, 0, _speed * Time.deltaTime);
-}
+}//сосоать
